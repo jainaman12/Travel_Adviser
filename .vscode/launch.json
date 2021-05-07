@@ -1,0 +1,245 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch conn2",
+            "request": "launch",
+            "mainClass": "conn2",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recomendation",
+            "request": "launch",
+            "mainClass": "Recomendation",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch recomm",
+            "request": "launch",
+            "mainClass": "recomm",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch Criteria",
+            "request": "launch",
+            "mainClass": "Criteria",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch demotopsis",
+            "request": "launch",
+            "mainClass": "demotopsis",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch Chatbot",
+            "request": "launch",
+            "mainClass": "Chatbot",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch xxx",
+            "request": "launch",
+            "mainClass": "xxx",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch solution",
+            "request": "launch",
+            "mainClass": "solution",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch Viewbooked",
+            "request": "launch",
+            "mainClass": "Viewbooked",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch Destination",
+            "request": "launch",
+            "mainClass": "Destination",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch Chatbotdemo",
+            "request": "launch",
+            "mainClass": "Chatbotdemo",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch HyperlinkDemo",
+            "request": "launch",
+            "mainClass": "HyperlinkDemo",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch BookPackage",
+            "request": "launch",
+            "mainClass": "BookPackage",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch demio",
+            "request": "launch",
+            "mainClass": "demio",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckPackage",
+            "request": "launch",
+            "mainClass": "CheckPackage",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hoteltable",
+            "request": "launch",
+            "mainClass": "Hoteltable",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hotels",
+            "request": "launch",
+            "mainClass": "Hotels",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch conn1",
+            "request": "launch",
+            "mainClass": "conn1",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch updateCustomer",
+            "request": "launch",
+            "mainClass": "updateCustomer",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddCustomer",
+            "request": "launch",
+            "mainClass": "AddCustomer",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch addCustomer",
+            "request": "launch",
+            "mainClass": "addCustomer",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch JFrameTest",
+            "request": "launch",
+            "mainClass": "JFrameTest",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dashboard",
+            "request": "launch",
+            "mainClass": "Dashboard",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loading",
+            "request": "launch",
+            "mainClass": "Loading",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch forgetPassword",
+            "request": "launch",
+            "mainClass": "forgetPassword",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch check",
+            "request": "launch",
+            "mainClass": "check",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch Yippee",
+            "request": "launch",
+            "mainClass": "Yippee",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Login",
+            "request": "launch",
+            "mainClass": "Login",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch Signup",
+            "request": "launch",
+            "mainClass": "Signup",
+            "projectName": "travel management system project_d970b697"
+        },
+        {
+            "type": "java",
+            "name": "Launch splash",
+            "request": "launch",
+            "mainClass": "splash",
+            "projectName": "travel management system project_d970b697"
+        }
+    ]
+}

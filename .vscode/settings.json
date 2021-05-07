@@ -1,0 +1,29 @@
+{
+    "maven.view": "hierarchical",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "e:\\Downloads from 11-12-2020\\activation.jar\\activation.jar",
+            "e:\\Downloads from 11-12-2020\\java-mail-1.4.4.jar\\java-mail-1.4.4.jar",
+            "c:\\Program Files (x86)\\MySQL\\Connector J 8.0\\mysql-connector-java-8.0.23.jar"
+        ],
+        "exclude": [
+            "lib/mysql-connector-java-8.0.23.jar"
+        ]
+    },
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "tms",
+            "username": "root",
+            "name": "tms_db",
+            "password": ""
+        }
+    ]
+}
